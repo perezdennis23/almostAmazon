@@ -39,4 +39,4 @@ To run the manager interface please follow the steps below:
 
 
 ### Bamazon Demo
-
+I was trying to screencast but my computer kept freezing.  I will upload a video as soon as my computer stops being such a jerk.
